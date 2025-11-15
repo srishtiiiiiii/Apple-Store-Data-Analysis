@@ -1,4 +1,4 @@
-#📱 App Store Data Analysis #
+#📱 App Store Data Analysis 
 
 In-Depth Insights Into App Trends, Categories, Ratings & User Engagement
 This project analyzes App Store data to uncover meaningful insights into app performance, user preferences, and market trends. Using Python-based data analytics techniques, the notebook explores various dimensions such as app ratings, genres, pricing, and user engagement metrics.
