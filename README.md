@@ -61,5 +61,5 @@ Highly-rated apps maintain consistent updates
 
 Add machine learning prediction  
 Perform review sentiment analysis  
-Compare with Google Play Store data  set
+Compare with Google Play Store data  set  
 Build interactive dashboards  
