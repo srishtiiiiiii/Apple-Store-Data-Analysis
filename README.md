@@ -9,12 +9,12 @@ The goal of this project is to understand how different factors influence an app
 
 ## 🧰 Tech Stack Used
 
-Python
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+Python    
+NumPy  
+Pandas  
+Matplotlib  
+Seaborn  
+Jupyter Notebook  
 
 ## 📂 Dataset 
 
